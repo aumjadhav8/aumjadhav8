@@ -8,9 +8,9 @@
 
 
 ## 🔗 Links
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://example.com/) 
+
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aumjadhav8)
-- [![LeetCode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/zaphieyr/)
+- [![LeetCode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aumjadhav/)
 - [![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fr.aum)
 
 
